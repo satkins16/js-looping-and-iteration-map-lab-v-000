@@ -11,3 +11,5 @@ function nameToAttributes(drivers) {
     return { firstName: driverFirst, lastName: driverLast }
   })
 }
+
+function attributesToPhrase()
